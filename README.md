@@ -21,7 +21,7 @@ Meu foco atualmente esta em me tornar um desenvolvedor Fullstack
 <a href="hhttps://www.linkedin.com/in/onlymarc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/apenasmarcos)
 
-### 🛠️ Technologies e Tools I use:
+### 🛠️ Tecnologias e ferramentas que uso:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
