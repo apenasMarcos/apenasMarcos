@@ -6,7 +6,7 @@ Sou um desenvolvedor WEB focado em Java
 
 Atualmente cursando ADS na Faculdade de Educação Tecnológica do Estado do Rio de Janeiro (FAETERJ).
 
-Meu foco atualmente esta em me tornar um desenvolvedor Fullstack
+Meu foco atualmente está em me tornar um desenvolvedor Fullstack
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apenasMarcos&show_icons=true&theme=tokyonight"/>
