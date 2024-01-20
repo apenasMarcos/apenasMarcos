@@ -1,3 +1,8 @@
+<!-- Banner -->
+<div align="center">
+  <img width="100%" src="https://ipfs.pixura.io/ipfs/QmTfQMExvfCgtR4Pb5pQTSaNRFSS6heSKPvz3ctapnLxF6/ControlRoom.gif">
+</div>
+
 ##  Olá!
 
 Eu sou Marcos Paulo,
