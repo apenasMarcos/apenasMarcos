@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://ipfs.pixura.io/ipfs/QmTfQMExvfCgtR4Pb5pQTSaNRFSS6heSKPvz3ctapnLxF6/ControlRoom.gif">
+  <img width="100%" src="https://wallpapercave.com/wp/wp9791390.gif">
 </div>
 
 ##  Olá! Eu me chamo Marcos Paulo
