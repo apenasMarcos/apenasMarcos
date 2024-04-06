@@ -10,20 +10,9 @@ Sou um desenvolvedor WEB focado em Java
 Atualmente cursando ADS na Faculdade de Educação Tecnológica do Estado do Rio de Janeiro (FAETERJ).
 
 Meu foco atualmente está em fortalecer meus conhecimento de desenvolvimento Fullstack
+<br><br>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apenasMarcos&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasMarcos&layout=compact&theme=tokyonight"/>
-</div>
-
-### Redes Sociais:
-
-<a href="https://www.youtube.com/c/apenasMarcosyt" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/onlymarc"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:marcos.paulo.mpsb99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/apenasmarcos)
-
-### 🛠️ Tecnologias e ferramentas que uso:
+## 🛠️ Tecnologias e ferramentas que uso:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -40,5 +29,27 @@ Meu foco atualmente está em fortalecer meus conhecimento de desenvolvimento Ful
   <img align="center" alt="Marcos-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo"  />
   <img align="center" alt="Marcos-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql logo"  />
   <img align="center" alt="Marcos-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker logo"  />
-
 </div>
+<br><br>
+
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apenasMarcos&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apenasMarcos&layout=compact&theme=tokyonight"/>
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apenasMarcos/apenasMarcos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apenasMarcos/apenasMarcos/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/apenasMarcos/apenasMarcos/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+
+### Redes Sociais:
+
+<a href="https://www.youtube.com/c/apenasMarcosyt" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/onlymarc"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:marcos.paulo.mpsb99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/apenasmarcos)
