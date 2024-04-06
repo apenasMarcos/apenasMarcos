@@ -59,7 +59,8 @@ Meu foco atualmente está em fortalecer meus conhecimento de desenvolvimento Ful
   <summary></summary> 
  
   - Badges by <a href="https://shields.io/">shields.io</a>.
- 
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>.
+
   <div align="right">Feito por <a href="https://github.com/apenasMarcos">apenasMarcos</a>.</div>
 
 </details>
