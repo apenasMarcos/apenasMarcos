@@ -3,8 +3,8 @@
   <img width="100%" src="https://wallpapercave.com/wp/wp9791390.gif">
 </div>
 
-##  Olá! Eu me chamo Marcos Paulo
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Paulo!)](https://git.io/typing-svg)
+
 Sou um desenvolvedor WEB focado em Java
 
 Atualmente cursando ADS na Faculdade de Educação Tecnológica do Estado do Rio de Janeiro (FAETERJ).
@@ -12,7 +12,7 @@ Atualmente cursando ADS na Faculdade de Educação Tecnológica do Estado do Rio
 Meu foco atualmente está em fortalecer meus conhecimento de desenvolvimento Fullstack
 <br><br>
 
-## 🛠️ Tecnologias e ferramentas que uso:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tecnologias+e+ferramentas+que+uso%3A)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -47,7 +47,7 @@ Meu foco atualmente está em fortalecer meus conhecimento de desenvolvimento Ful
 <br><br>
 
 
-### Redes Sociais:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=false&random=false&width=435&lines=Redes+Sociais)](https://git.io/typing-svg)
 
 [![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/apenasMarcosyt)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color:FFF)](mailto:marcos.paulo.mpsb99@gmail.com)
