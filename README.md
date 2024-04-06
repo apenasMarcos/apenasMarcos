@@ -49,7 +49,17 @@ Meu foco atualmente está em fortalecer meus conhecimento de desenvolvimento Ful
 
 ### Redes Sociais:
 
-<a href="https://www.youtube.com/c/apenasMarcosyt" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/onlymarc"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:marcos.paulo.mpsb99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/apenasMarcosyt)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color:FFF)](mailto:marcos.paulo.mpsb99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&color:FFF)](https://www.linkedin.com/in/onlymarc)
 [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/apenasmarcos)
+
+
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a>.
+ 
+  <div align="right">Feito por <a href="https://github.com/apenasMarcos">apenasMarcos</a>.</div>
+
+</details>
