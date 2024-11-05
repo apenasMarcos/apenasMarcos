@@ -3,11 +3,11 @@
   <img width="100%" src="https://wallpapercave.com/wp/wp9791390.gif">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Paulo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Marcos!)](https://git.io/typing-svg)
 
 Sou um desenvolvedor WEB focado em Java
 
-Atualmente cursando ADS na Faculdade de Educação Tecnológica do Estado do Rio de Janeiro (FAETERJ).
+Atualmente estou cursando ADS na Faculdade de Educação Tecnológica do Estado do Rio de Janeiro (FAETERJ).
 
 Meu foco atualmente está em fortalecer meus conhecimento de desenvolvimento Fullstack
 <br><br>
